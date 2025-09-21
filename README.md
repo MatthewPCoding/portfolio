@@ -20,3 +20,8 @@ Clone the repo and open `index.html` in a browser:
 ```bash
 git clone https://github.com/<username>/<repo>.git
 cd repo
+
+📫 Contact
+
+LinkedIn(https://www.linkedin.com/in/matthew-pearcy-b50b4a217/)
+Email(mailto:matthewapearcy@gmail.com)
