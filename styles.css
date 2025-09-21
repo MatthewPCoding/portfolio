@@ -15,10 +15,7 @@ body {
 }
 
 .hero::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background: rgba(0, 0, 0, 0.5);
+    content: none;
 }
 
 .hero-content h1 {
@@ -222,4 +219,38 @@ section {
   border: 1px solid #ccc;
   border-radius: 6px;
   font-size: 1rem;
+}
+
+/* === About Section === */
+.about-section {
+  max-width: 800px;        /* keep text at a comfortable line length */
+  margin: 80px auto;       /* center horizontally with generous top/bottom space */
+  padding: 0 20px;         /* small horizontal padding for mobile */
+  text-align: center;
+  color: #333;
+}
+
+.about-section h2 {
+  font-size: 2.2rem;
+  margin-bottom: 1rem;
+  color: #111;
+  letter-spacing: 0.5px;
+  position: relative;
+}
+
+.about-section p {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  margin-bottom: 1.25rem;
+  color: #444;
+}
+
+/* Responsive tweak for smaller screens */
+@media (max-width: 600px) {
+  .about-section h2 {
+    font-size: 1.8rem;
+  }
+  .about-section p {
+    font-size: 1rem;
+  }
 }
