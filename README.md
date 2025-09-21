@@ -24,5 +24,5 @@ cd repo
 ```
 ## 📫 Contact
 
-- LinkedIn[View LinkedIn](https://www.linkedin.com/in/matthew-pearcy-b50b4a217/)
-- Email[Send Email](mailto:matthewapearcy@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/matthew-pearcy-b50b4a217/)
+- [Email](mailto:matthewapearcy@gmail.com)
